@@ -1,4 +1,4 @@
-#About Me:
+# About Me:
 ### Hi there 👋, I’m **Khushang Singh**!<br><br>**I’m interested in**:<br>  - Programming, Software Development and UI/UX Designing.<br>  - Exploring new technologies in **Web Development**.<br>  - Building impactful projects that solve real-world problems.<br><br>**I’m currently learning**:<br>  - Advanced concepts in **Computer Science**, particularly in **Full Stack Development**.<br>  - Working on **JavaScript frameworks** and building scalable applications.<br>  - Experimenting with **AI-based projects** like facial recognition.<br><br>**How to reach me**:<br>  - Email: [khushangsingh8508@gmail.com](mailto:khushangsingh8508@gmail.com)<br>  - LinkedIn: [linkedin.com/in/khushangsingh](https://www.linkedin.com/in/khushangsingh2004/)<br><br>Feel free to explore my repositories and connect with me! 🚀✨
 
 
