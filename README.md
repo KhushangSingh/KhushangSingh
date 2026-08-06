@@ -84,18 +84,6 @@ Alongside my coursework, I currently serve as **Vice-President of the GeeksforGe
 
 <br>
 
-## 🎯 UX Case Study
-
-**McDonald's App — Heuristic Evaluation & Redesign**
-- Conducted a heuristic evaluation of the live McDelivery platform, identifying 7 critical usability issues including navigational friction and visual asymmetry
-- Redesigned the core navigation with a persistent sidebar, resolving a "disappearing menu" issue and reducing scroll fatigue
-- Reworked the food details modal from a restrictive square layout to a wide rectangle for easier scanning of nutritional info
-- Standardized spacing and cart preview margins for a more polished visual hierarchy
-
-📄 [View full case study](https://drive.google.com/file/d/1ZiyrMUetKnYz6vbUUj-_MopXs4Ok3uFD/view?usp=drive_link)
-
-<br>
-
 ## 💼 Industry Job Simulations (Forage)
 
 | Program | Focus |
